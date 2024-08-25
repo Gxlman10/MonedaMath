@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169376079404",
+    "project_id": "monedamath",
+    "storage_bucket": "monedamath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169376079404:android:0ce740f678356b9f1c7b89",
+        "android_client_info": {
+          "package_name": "com.example.monedamath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIroGpDFOJVCBzX5WBYVGYsWv7be3yLtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
